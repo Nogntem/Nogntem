@@ -1,16 +1,37 @@
-## Hi there 👋
+README EN WORK IN PROGRESS
 
-<!--
-**Nogntem/Nogntem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Bienvenue sur mon GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Mes Projets  
+
+WORK IN PROGRESS
+
+---
+
+## 💻 Langages et Technologies  
+Voici les langages que j’utilise :  
+
+- **Back-end** : Java, C, Python, SQL  
+- **Front-end** : HTML, CSS, JavaScript  
+
+J’aime aussi explorer de nouvelles technologies pour enrichir mes compétences !  
+
+---
+
+## 📊 Statistiques GitHub  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Nogntem&show_icons=true&theme=dark)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogntem&layout=compact&theme=dark)  
+
+
+---
+
+## 🔗 Me Contacter  
+📍 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/teddy-ausousseau/) 
+
+N’hésite pas à me suivre et à découvrir mes projets ! 🚀  
+
+---
