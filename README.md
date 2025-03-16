@@ -8,8 +8,10 @@ README EN WORK IN PROGRESS
 
 ## 🏆 Mes Projets  
 
-♟️​![Jeu d'echec sans POO](https://github.com/Nogntem/Echec)
-🧮​![Calculatrice en JS](https://github.com/Nogntem/Calculator)
+♟️​[Jeu d'echec sans POO](https://github.com/Nogntem/Echec)
+
+
+🧮​[Calculatrice en JS](https://github.com/Nogntem/Calculator)
 
 ---
 
@@ -31,6 +33,7 @@ J’aime aussi explorer de nouvelles technologies pour enrichir mes compétences
 
 ## 🔗 Me Contacter  
 📍 **LinkedIn** : [Mon Profil](https://www.linkedin.com/in/teddy-ausousseau/) 
+
 📧 **E-Mail** : teddyausousseau@gmail.com
 
 N’hésite pas à me suivre et à découvrir mes projets ! 🚀  
