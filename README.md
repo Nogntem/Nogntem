@@ -8,7 +8,8 @@ README EN WORK IN PROGRESS
 
 ## 🏆 Mes Projets  
 
-WORK IN PROGRESS
+[Jeu d'echec sans POO](https://github.com/Nogntem/Echec)
+[Calculatrice en JS](https://github.com/Nogntem/Calculator)
 
 ---
 
